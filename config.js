@@ -89,6 +89,6 @@ $("#subscribe_form").ajaxChimp({
 
 	// Replace your mailchimp post url inside double quote "".
 
-    url: "//novisdev.us15.list-manage.com/subscribe/post?u=202b79afea96f1d57561896f5&amp;id=02ba748be1"
+    url: "https://kinamico.us8.list-manage.com/subscribe/post?u=5313d56d2a921666657b05c80&amp;id=4f9165e12e"
 
   });
